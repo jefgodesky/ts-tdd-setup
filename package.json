@@ -1,0 +1,12 @@
+{
+  "name": "ts-tdd-setup",
+  "version": "1.0.0",
+  "description": "A basic starting point for writing Typescript with Jest tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jason Godesky <jefgodesky@gmail.com>",
+  "license": "GPL-3.0"
+}
